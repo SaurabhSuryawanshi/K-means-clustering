@@ -1,7 +1,6 @@
 Overview:
 
-This project explores the implementation of K-Means clustering on the Online Retail Store dataset, aiming to segment customers based on purchasing behavior.
-Customer segmentation allows businesses to understand groups of customers and tailor strategies for enhanced customer satisfaction and increased revenue.
+This project explores the implementation of K-Means clustering.
 
 Features:-
 - Data Preprocessing:- Handling missing values.
